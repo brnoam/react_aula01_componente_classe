@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    border: dotted 3px  rgb(196, 32, 59);
+    background-color: whitesmoke;
+    padding: 3%;
+    margin: 10%;
+  }
+  
+  body {
+    background-color: wheat;
+  }
+  
